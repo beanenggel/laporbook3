@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67274106072",
+    "project_id": "laporbook-3a80c",
+    "storage_bucket": "laporbook-3a80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67274106072:android:3ba97ac1020d242279e3ad",
+        "android_client_info": {
+          "package_name": "com.laporbook.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTpM2g9x7clDMAZocUdm0fIRUG_bBtvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
